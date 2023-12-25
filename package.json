@@ -13,7 +13,7 @@
     "@uiw/codemirror-theme-vscode": "^4.21.21",
     "@uiw/react-codemirror": "^4.21.21",
     "assert": "^2.1.0",
-    "next": "14.0.1",
+    "next": "^14.0.1",
     "react": "^18",
     "react-confetti": "^6.1.0",
     "react-dom": "^18",
