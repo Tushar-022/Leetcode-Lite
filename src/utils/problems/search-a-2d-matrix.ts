@@ -1,5 +1,5 @@
 import assert from "assert";
-import {Problem} from '../types/problem';
+import  Problem  from "../types/problem";
 import example1 from "./images/search-a-2d-1.jpg";
 import example2 from "./images/search-a-2d-2.jpg";
 
